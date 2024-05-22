@@ -1,7 +1,6 @@
 <H1> Laravel Back End DHK API </H1>
 
 <p> To Run Project need: </p>
-
 <pre> 
 Composer Install 
 php artisan migrate  
