@@ -11,8 +11,6 @@ create database name: bassamDb
 <p> To Test API: </p>
 <p> API Live Link: https://api.aldrewi.com/api/report </p>
 
-
-
 <pre>
   {
     "title": "tdescscrt",
