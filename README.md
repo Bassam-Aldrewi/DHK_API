@@ -1,18 +1,17 @@
 <H1> Laravel Back End DHK API </H1>
 
-<p> 
+<p> To Run Project need: </p>
 
-To Run Project:
-
+<pre> 
 Composer Install 
 php artisan migrate  
 php artisan serve
 create database name: bassamDb
+</pre>
 
-To Test API:
-API Live Link: https://api.aldrewi.com/api/report
+<p> To Test API: </p>
+<p> API Live Link: https://api.aldrewi.com/api/report </p>
 
-</p>
 
 
 <pre>
